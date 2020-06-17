@@ -125,7 +125,7 @@ namespace TechJobsConsole
                 {
                     Console.WriteLine(data.Key + " :" + data.Value);
                 }
-                Console.WriteLine("*****");
+                Console.WriteLine("*****"); 
             }
         }
     }
